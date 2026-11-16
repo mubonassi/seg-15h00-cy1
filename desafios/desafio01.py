@@ -1,0 +1,2 @@
+print("- Cachorro-quente -")
+print("Um cachorro-quente é uma comida típica dos Estados Unidos em que se coloca salsicha dentro de um pão sovado. Nos Estados Unidos, o preparo típico do cachorro-quente é colocando a salsicha com o molho agridoce, picles à base de pepino, mostarda e ketchup.")
